@@ -1,0 +1,51 @@
+h1{
+    color: goldenrod;
+}
+p
+{
+    color: aliceblue;
+font-weight: bold;
+}
+.flexbox
+{
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+.button_design, .new_card
+{
+    border: #016f32;
+    text-align: center;
+    display: flex;
+    margin-left: 45%;
+    margin-bottom: 10px;
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    font-weight: bolder;
+    font-size: large;
+    height: 40px;
+    padding-top: 8px;
+    padding-left: 15px;
+}
+.new_card:hover
+{
+    color:aliceblue;
+}
+.new_card:active
+{
+    opacity: 0.5;
+}
+.button_design:active
+{
+    opacity: 0.5;
+}
+.button_design:hover
+{
+    color:aliceblue;
+}
+
+
+
+
+
