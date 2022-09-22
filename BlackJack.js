@@ -29,13 +29,13 @@ function startGame()
             }
             else if (sum ===21)
             {
-            message="wohho ! You got Blackjack";  
+            message="Wohho ! You got Blackjack";  
             hasblackJack=true;
           
             }
             else
             {
-            message="you are out of the game";
+            message="You are out of the game";
             isAlive=false
            
             }
