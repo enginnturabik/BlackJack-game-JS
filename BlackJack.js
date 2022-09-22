@@ -1,5 +1,5 @@
 /*BlackJack is well known casino game in the world! The purpose of the game is your sum of the cards of point equal 21 (does not matter how many cards you taked )
- if sum of the points be bellow 21 you can take again and again ! Howerever,if sum of point be above of 21 , you lose ! Hence your sum sum of the cards of point 
+ if sum of the points be bellow 21 you can take again and again ! Howerever,if sum of point be above of 21 , you lose ! Hence your sum of the cards of point 
  must be 21
 */
 
